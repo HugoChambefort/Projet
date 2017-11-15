@@ -18,12 +18,12 @@ void FCM()
   valeurSeuil=650;
   
    if (valeurActuelle > valeurSeuil) 
-   {  // on est dans la zone max
+   {  
     if (valeurprec <= valeurSeuil) 
-    {  // 
+    {  
       tempsDetection = millis();
       if (tempsDetection > (tmpsprece + 200))
-      {  // ce n'est pas seulement du bruit?
+      {  
         Serial.println( (1000.0 * 60.0) / (tempsDetection - tmpsprece),0);
         tmpsprece = tempsDetection;
                                               
@@ -34,6 +34,4 @@ void FCM()
   valeurprec = valeurActuelle;
 
 }
-
-
 
