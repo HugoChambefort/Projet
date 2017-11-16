@@ -1,3 +1,4 @@
+
 #include "Coeur.h"
 #include "param.h"
 #include <Arduino.h>
@@ -42,9 +43,7 @@ void chenille()//Allume le mode chenille
     digitalWrite(i, LOW);
 
     delay(100);   
-    if(i == 13){
-        i = 3;
-    }
+
   } 
  
 
