@@ -71,3 +71,22 @@
 	<stdlib.h>
 	"menu.h"
 
+1510743122 source:c:\users\hugol\documents\github\projet\codes\module 2\code c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510742969 c:\users\hugol\documents\github\projet\codes\module 2\code c\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510738724 c:\users\hugol\documents\github\projet\codes\module 2\code c\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510820031 source:c:\users\hugol\documents\github\projet\codes\module 2\code c\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
