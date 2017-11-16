@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1510739556 source:c:\users\hugol\onedrive\documents\exia\projet\coeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510739975 source:c:\users\hugol\onedrive\documents\exia\projet\coeur\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1510739975 source:c:\users\hugol\onedrive\documents\exia\projet\coeur\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510739478 c:\users\hugol\onedrive\documents\exia\projet\coeur\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510738724 c:\users\hugol\onedrive\documents\exia\projet\coeur\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510743122 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino_coeur\coeur.cpp\coeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510742969 c:\users\hugol\onedrive\documents\exia\projet\code_arduino_coeur\coeur.cpp\coeur\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510738724 c:\users\hugol\onedrive\documents\exia\projet\code_arduino_coeur\coeur.cpp\coeur\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510742953 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino_coeur\coeur.cpp\coeur\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1510749429 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino_coeur\coeur.cpp\coeur\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1510819529 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino\cardio.c\code c\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+
+1510738724 c:\users\hugol\onedrive\documents\exia\projet\code_arduino\cardio.c\code c\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+
+1510743122 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino\cardio.c\code c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510742969 c:\users\hugol\onedrive\documents\exia\projet\code_arduino\cardio.c\code c\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1510819529 source:c:\users\hugol\onedrive\documents\exia\projet\code_arduino\cardio.c\code c\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+

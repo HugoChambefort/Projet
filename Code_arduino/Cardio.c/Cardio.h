@@ -1,0 +1,2 @@
+int temps();
+int FCM();
