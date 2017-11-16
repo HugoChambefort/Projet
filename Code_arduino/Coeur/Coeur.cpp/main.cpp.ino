@@ -1,4 +1,4 @@
-#include "Cardio.h"
+
 #include "Arduino.h"
 #include "FreqMeasure.h"
 void setup() {
@@ -33,12 +33,6 @@ void setup() {
 
 void loop()
 {
-  int tp,poul;
-  tp=temps();
-  poul=FCM();
-  Serial.print(tp);
-  Serial.print(";");
-  Serial.println(poul);
  
 }
 
