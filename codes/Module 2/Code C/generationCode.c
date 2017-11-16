@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "generationCode.h"
-#define FILE_param "C:\\Users\\hugol\\OneDrive\\Documents\\Exia\\Projet\\Code_arduino\\Cardio.c\\param.h"//Chemin pour écrire dans param.h
+#define FILE_param "C:\\Users\\hugol\\Documents\\GitHub\\Projet\\codes\\Module 2\\Coeur.cpp\\param.h"//Chemin pour écrire dans param.h
 void generation(choice)
 {
 
