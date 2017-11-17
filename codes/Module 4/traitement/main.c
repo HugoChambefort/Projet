@@ -7,6 +7,6 @@
 
 
 void prions()
-{
-    affichage();
+{   choice
+    affichage(choice,Donnees tableauDonnees[],int nblignes);
 }
