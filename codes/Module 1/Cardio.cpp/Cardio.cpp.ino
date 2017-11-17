@@ -9,7 +9,6 @@ int temps()
 { 
   int time;
  time=millis(); // millis() permet de donner en millisecondes le temps d'éxécution de l'arduino
- Serial.println(time);
  delay(1000);// delai de 1 seconde
  return time;
 }

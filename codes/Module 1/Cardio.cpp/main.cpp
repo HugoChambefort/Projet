@@ -12,10 +12,10 @@ void loop()
 {
   int tp,poul;
   tp=temps();
-  poul=FCM();
+  poul=random(60,120);
   Serial.print(tp);
   Serial.print(";");
-  Serial.println(poul);
+  Serial.println( poul);
  
 }
 
