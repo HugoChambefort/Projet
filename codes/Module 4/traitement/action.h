@@ -1,4 +1,4 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void basiques(tableauDonnees[], int nblignes);
+void basiques(Donnees tableauDonnees[], int nblignes);

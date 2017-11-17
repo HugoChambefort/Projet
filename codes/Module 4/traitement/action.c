@@ -4,7 +4,7 @@
 #include "donnee.h"
 
 
-void affichage(int choice,tableauDonnees[],int nblignes) //Affichage de nos opérations
+void affichage(int choice,Donnees tableauDonnees[],int nblignes) //Affichage de nos opérations
 {
     scanf("%i",&choice);
     if (choice=0) //Sortie si l'utilisateur entre 0
@@ -19,7 +19,7 @@ void affichage(int choice,tableauDonnees[],int nblignes) //Affichage de nos opér
 
 }
 
-void basiques(tableauDonnees[], int nblignes)
+void basiques(Donnees tableauDonnees[], int nblignes)
 {
             int i;
 
