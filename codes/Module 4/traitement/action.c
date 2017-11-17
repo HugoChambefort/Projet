@@ -29,3 +29,16 @@ void basiques(Donnees tableauDonnees[], int nblignes)
                 printf("Temps:%i Pouls:%i\n",tableauDonnees[i].temps,tableauDonnees[i].pouls);
             }
 }
+
+
+
+void sequentielle(Donnees tableauDonnees[],int pouls)
+{
+    int i;
+    printf("Quel est le poul recherche");
+    scanf("%i",&pouls);
+    if (tableauDonnees[i]==pouls)
+    {
+        printf("Le poul est présent %i fois",tableauDonnees[i].pouls);
+    }
+}
