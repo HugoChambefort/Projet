@@ -1,1 +1,1 @@
-#define choix 4
+#define choix 1
